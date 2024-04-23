@@ -1,0 +1,6 @@
+ID: 88824
+CPF: 123123123
+Nome: Kaique
+Data de nascimento: 23/07/2003  Idade: 18
+Endereço: Campestre
+Profissão: estudante

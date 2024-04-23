@@ -1,0 +1,7 @@
+Nome: Kaique
+CPF: 501
+Conta: C
+Senha: 501
+Data:2021-10-15 Oct 19:49 + 0 Tarifa: 0.00 Saldo: 10000.00 
+Data:2021-10-15 Oct 19:49 - 2000.00 Tarifa:60.00 Saldo: 7940.00 
+Data:2021-10-15 Oct 19:52 + 40000.00 Tarifa: 0.00 Saldo: 47940.00 
